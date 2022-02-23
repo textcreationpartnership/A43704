@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at White-Hall, on Sunday, Octob. 2, 1692 by Charles Hickman ...</title>
+            <author>Hickman, Charles, 1648-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43704</idno>
+            <idno type="STC">Wing H1901</idno>
+            <idno type="STC">ESTC R18595</idno>
+            <idno type="EEBO-CITATION">13046367</idno>
+            <idno type="OCLC">ocm 13046367</idno>
+            <idno type="VID">96924</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at White-Hall, on Sunday, Octob. 2, 1692 by Charles Hickman ...</title>
+                  <author>Hickman, Charles, 1648-1713.</author>
+               </titleStmt>
+               <extent>[4], 25, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy XXX, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96924:1"/>
+            <pb facs="tcp:96924:1"/>
+            <p>A SERMON PREACHED Before the QUEEN, AT WHITE-HALL, On <hi>Sunday, Octob.</hi> 2. 1692.</p>
+            <p>By <hi>CHARLES HICKMAN,</hi> D. D. Chaplain in Ordinary to Their Majeſties.</p>
+            <p>Publiſhed by Her Majeſty's Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1692.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:96924:2" rendition="simple:additions"/>
+            <p>Dr. <hi>HICKMAN</hi>'s SERMON Before the QUEEN, <hi>October</hi> 2. 1692.</p>
+            <pb facs="tcp:96924:3"/>
+            <pb facs="tcp:96924:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96924:4"/>
+            <pb n="1" facs="tcp:96924:4"/>
+            <head>A SERMON PREACHED Before the QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>DEUT. xxx. 15.</hi>
+                  </bibl>
+                  <p>See I have ſet before thee this day, life and good, and death and evil.</p>
+               </q>
+            </epigraph>
+            <p>THere is no man alive but will eaſily confeſs, That Life is good, and Death is evil; and ſo far we are all ready to join iſſue with my Text. Nay, there are few men either ſo negligent or perverſe, but that they are ſollicitous to avoid the evil, and to chuſe the good; and thus far alſo there are fair hopes of an Accommo<g ref="char:EOLhyphen"/>dation.</p>
+            <p>
+               <pb n="2" facs="tcp:96924:5"/>But then here lies the difference. Though we are all agreed in the main point, yet we are apt to vary in our Notions of the ſubordinate kinds of Good and Evil, according to the variety of our Tempers and Inclinations. Some men judge of theſe things by their Reaſon, examine how agree<g ref="char:EOLhyphen"/>able they are to our uncorrupted Nature, and what conſequences they are likely to produce; a ſafe, but withal, a tedious way. And therefore others, for more diſpatch, make a judgment of them on<g ref="char:EOLhyphen"/>ly by their ſenſe, and will allow nothing to be good, but what gives them preſent Entertainment, nothing Evil but what brings them into preſent Pain.</p>
+            <p>And hence it is, That they ſo ſtudiouſly devote themſelves to the Profits and Pleaſures of the World, which afford them ſome ſenſible Satis<g ref="char:EOLhyphen"/>faction, ſome immediate Relief; But as for Ver<g ref="char:EOLhyphen"/>tue, all the good of it they think depends up<g ref="char:EOLhyphen"/>on ſuch remote Conſequences, ſuch uncertain Fruits, that they utterly neglect it, as a Plant of too doubtful a Product, or at beſt of too ſlow a Growth.</p>
+            <p>Some think it is not in their power to be good; and others think it not worth their while: and though they are much concern'd for the evil which they ſuffer, yet they have no regard to the
+<pb n="3" facs="tcp:96924:5"/>
+evil which they do. Either they look upon moral Actions as things indifferent, that have no real in<g ref="char:EOLhyphen"/>trinſick value, no natural Obligation of them<g ref="char:EOLhyphen"/>ſelves, or at moſt they do not think them of ſuch Moment and Importance, as to determine us abſo<g ref="char:EOLhyphen"/>lutely either to Life or Death.</p>
+            <p>Againſt all which miſtakes I muſt beg leave to ſpeak briefly and plainly and practically from the Authority of my Text, <hi>See I have ſet before thee this day life and good, and death and evil;</hi> In which words <hi>Moſes</hi> gives us to underſtand, that the Law of God <hi>ſets before us Good and Evil,</hi> in a twofold reſpect.</p>
+            <list>
+               <item n="1">I. As a Matter of Information, to ſhew us the real difference that is between them, and the different Conſequences which they pro<g ref="char:EOLhyphen"/>duce.</item>
+               <item n="2">II. As a Matter of Choice, that when we know the difference, we may be perſwaded to refuſe the <hi>Evil,</hi> and chuſe the <hi>Good.</hi>
+               </item>
+            </list>
+            <p>I. And, <hi>Firſt,</hi> by way of Information. <hi>See, I have ſet before thee life and good, and death and evil,</hi> ſays God; and yet there are men who live as if there was no difference between Good and Evil; as if Sin were nothing but a groundleſs name, and they reſolv'd to follow the bent of their own Inclinations, let the Law ſay what it pleaſes,
+<pb n="4" facs="tcp:96924:6"/>
+or the Conſequence be what it will. They think the only Happineſs of Man is to live without re<g ref="char:EOLhyphen"/>ſtraint, to give a looſe to his Luſts and Paſſions, and in all points to follow the Extravagancies of his Nature. That 'tis below a Man of Spirit to be ty'd up to ſervile Rules, and ſubject to the Reaſon of other Men, <hi>We are they that ought to ſpeak, and who is Lord over us?</hi>
+            </p>
+            <p>This is indeed the Language of many in our times. But if they would let any body ſpeak be<g ref="char:EOLhyphen"/>ſide themſelves, they might eaſily learn, That there are Two things which have an undoubted Right to be Lords over them, and ought, in Rea<g ref="char:EOLhyphen"/>ſon, to be heard:</p>
+            <list>
+               <item n="1">1. The Word of God, and</item>
+               <item n="2">2. The Voice of their own Conſcience: ei<g ref="char:EOLhyphen"/>ther of which is able to convince them of their Errour, and to ſhew them a wide difference be<g ref="char:EOLhyphen"/>tween Good and Evil.</item>
+            </list>
+            <p>For, <hi>Firſt,</hi> The Word of God <hi>ſets be<g ref="char:EOLhyphen"/>fore us</hi> this difference, in ſo plain convincing Terms, that though we may be perverted by Evil, yet 'tis hard for us to be miſtaken. Though God has ſent us into this Wilderneſs of a World, where there are many intricate Paſſa<g ref="char:EOLhyphen"/>ges to perplex us, and much Variety of Objects to diſtract our Thoughts, yet <hi>he has not left</hi> us
+<pb n="5" facs="tcp:96924:6"/>
+without a Guide, nor <hi>himſelf without a witneſs.</hi> He has given us his word, as a perfect Rule, by which we ſhall certainly be try'd at laſt: and therefore by this Rule we ought to try our own Actions now.</p>
+            <p>Here all the Doubts of our Judgment are ex<g ref="char:EOLhyphen"/>pounded, all the Scruples of our Conſcience are reſolv'd: <hi>He hath ſhewed thee, O man, what is good,</hi> and whatſoever evil we are addicted to, in his Law we find the Folly of it plainly expoſed, and all its Dangers laid open to us. It gives us many glorious Inſtances of Vertue to invite us, and many dreadful Judgments upon Vice, to af<g ref="char:EOLhyphen"/>fright us into Religion; and whatſoever difficult Circumſtances the natural Man may labour under, yet here <hi>the man of God</hi> is perfectly forewarn'd againſt every Evil, and <hi>throughly furniſhed for eve<g ref="char:EOLhyphen"/>ry Good work.</hi>
+            </p>
+            <p>And therefore it was a very juſt and proper Commendation, which <hi>Philo</hi> the Jew gives us of <hi>Moſes</hi> his Deſign, That he has introduced his Law with the Hiſtory of the Creation, on pur<g ref="char:EOLhyphen"/>poſe to ſhew us how exactly the Commandments of God are accommodated to the Nature of us Men. So very exactly, that if we will but con<g ref="char:EOLhyphen"/>ſult this Oracle with honeſt, humble Minds, we can no longer be at a loſs to find out the juſt meaſures of Truth, as far as we are concern'd to
+<pb n="6" facs="tcp:96924:7"/>
+know; and the true bounds of Goodneſs, as far as we are oblig'd to practiſe; and any farther, any nicer ſearch, has more of Curioſity in it than Religion.</p>
+            <p>And now how great a Happineſs is it, That we enjoy the benefit of this Holy Word, and are in<g ref="char:EOLhyphen"/>fallibly conducted by a Light from Heaven, through all the Uncertainties and Dangers that beſet us upon Earth!</p>
+            <p>With what infinite Pleaſure ſhould we apply ourſelves to the ſtudy of this Law, which, like the Pillar of Fire that led the <hi>Iſraelites</hi> out of <hi>Egypt,</hi> is not only our Guide, but our Encou<g ref="char:EOLhyphen"/>ragement in travail, and ſupports our Spirits at the ſame time when it directs our Feet.</p>
+            <p>Indeed, the Light of God's Word is ſo con<g ref="char:EOLhyphen"/>vincing; ſo plainly does it ſet before us the difference between Good and Evil, that for this very reaſon evil Men find it offenſive to them, and therefore they lay it by. It ſhines ſo full up<g ref="char:EOLhyphen"/>on their Face, that they cannot enjoy their ſins in quiet for it; and 'tis this that makes them cry out againſt <hi>Moſes,</hi> as <hi>Dathan</hi> and <hi>Abiram</hi> did, <hi>Wilt thou put out the eyes of this people?</hi>
+            </p>
+            <p>But, <hi>Secondly,</hi> though they ſhould lay a<g ref="char:EOLhyphen"/>ſide the Law, and refuſe to give audience to
+<pb n="7" facs="tcp:96924:7"/>
+the Word of God; though <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets ſhould be ſilent, yet Conſcience, when it comes to ſpeak for it ſelf, as it will ſometimes do, is as convincing as any Revelation, and as obliging as any Law; 'tis a Witneſs that will not be ſilenc'd, and a Judge that cannot be ſub<g ref="char:EOLhyphen"/>orn'd.</p>
+            <p>'Tis this that makes us look upon ſome Acti<g ref="char:EOLhyphen"/>ons with Abhorrence, and upon others with De<g ref="char:EOLhyphen"/>light; and according to the Reſult of our Love or Hatred, according to this inward Reliſh or Diſguſt, ſo we learn to diſcover the difference between Good and Evil, and find that every Acti<g ref="char:EOLhyphen"/>on of Man has an indelible Character ſtamp'd upon it, by which its value is eaſie to be known.</p>
+            <p>'Tis true, that this Evidence alſo may be ſtifled for a time; and there are thoſe who, with much adoe, wear out theſe Characters of Good and Evil, which Nature has imprinted in their Souls, That when they have conquer'd their Conſcience, and kept it under, they may for a while enjoy their ſins in peace, and <hi>live as if there was no God in the World.</hi>
+            </p>
+            <p>But how noble a Conqueſt this is, and how long the peace is like to laſt, we ſhall conſider under the following Head: in the mean time I
+<pb n="8" facs="tcp:96924:8"/>
+ſhall only ſay, That they who deſpiſe the Maje<g ref="char:EOLhyphen"/>ſty of God, can have no regard to the Rights of Men, but as often as a fair occaſion offers, they will be for levelling all above them, and trampling upon all below them, and therefore are ſo far from deſerving favour, that they are not fit for humane Converſation: for when once they have thrown off all concern for Vertue, how eaſily do they break down all bounds of Law, and allow themſelves in ſuch Extravagan<g ref="char:EOLhyphen"/>cies, as are a contradiction to the reaſon of all Mankind: there is nothing ſo prophane which they will not practiſe; nothing ſo ſacred which they will not prophane: and think it a peculiar Honour of their own, to be above the common Ordinances of the World, and to deſpiſe a tame, go<g ref="char:EOLhyphen"/>vernable Creature. With them 'tis accounted no Vertue to forgive an Enemy, no Vice to betray a Friend; Nay, Vertue it ſelf ſhall be called a Weakneſs, and their Vices honoured with the name of Wit: as if they had not only a pecu<g ref="char:EOLhyphen"/>liar Law, but a peculiar Language alſo of their own.</p>
+            <p>And yet, for all the pretended Wit and Ho<g ref="char:EOLhyphen"/>nour of this Race of Men, there is not ſo vile, ſo fooliſh a Creature in the World as they. Nay, 'tis only the vileneſs of their practice that is their Pro<g ref="char:EOLhyphen"/>tection; for ſhould other Men but follow their Ex<g ref="char:EOLhyphen"/>ample, and aſſume the ſame Liberties which they al<g ref="char:EOLhyphen"/>low
+<pb n="9" facs="tcp:96924:8"/>
+themſelves, ſhould other Men but let their Luſts and Paſſions looſe like them, they would ſoon grow weary of this Heatheniſh State, and fly for Sanctuary to Religion.</p>
+            <p>For after all the Attempts that Vice can make upon it, yet Vertue is eſtabliſh'd upon ſuch a Foundation, as never can be remov'd. It has ſtood its ground through all the Ages and Revo<g ref="char:EOLhyphen"/>lutions of the World, and there never yet was a time when true Goodneſs was not held in Ho<g ref="char:EOLhyphen"/>nour, and Wickedneſs look'd upon with Reproach. The Heathens themſelves, though they often changed their Gods, yet they never changed their Vertue; but in their ſeveral Writings have left us their Notions of Good and Evil, ſo fairly re<g ref="char:EOLhyphen"/>preſented, and ſo faithfully deſcribed, as may ſerve for the Reproach of many Chriſtians, and the Inſtruction of All.</p>
+            <p>Nay, thoſe Heatheniſh Nations, who have yet no Knowledge of the Law, are, nevertheleſs, a Law unto themſelves, and keep ſo ſtrict to the Rules of Juſtice, as ſhews, That Vertue is a thing of Univerſal Obligation, of Eternal Truth, and whoſoever refuſes to be govern'd by it, is worſe than an Infidel, a Rebel to Nature, and an Out<g ref="char:EOLhyphen"/>law both to God and Man. He breaks off all Commerce and Communication with Mankind; will not be join'd in any League, Friendſhip,
+<pb n="10" facs="tcp:96924:9"/>
+or Society with his Fellow-Creatures, nor ſubmit to any of thoſe common terms, whereby we hold a Converſation with one another.</p>
+            <p>In a word; Without Vertue there is no Peace, without Goodneſs there is no living in the World. And this Argument alone is demonſtration enough, That there is a real difference between Good and Evil; which difference though many of us neglect it in our Practice, yet in ſpeculation, there are a few, and but a few of us, that have the confidence to deny it. But then,</p>
+            <p n="2">II. There is another, and a more numerous ſort of Men, who though they do allow the difference, yet do not think the difference is ſo great, as that Life or Death ſhould be the neceſſary conſe<g ref="char:EOLhyphen"/>quence of Good or Evil: Like ignorant Men, who think there is no need of forfeiting their Bond, though they do not perform the Obliga<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>In the day that thou eateſt thou ſhalt ſurely die,</hi> ſays God; a very plain, and very preſ<g ref="char:EOLhyphen"/>ſing Text, and yet if the Devil may be allowed to make the Comment, he will give us a very different account, ſo far from dying, That <hi>in the day thou eateſt thou ſhalt be like God himſelf,</hi> and in a way to live for evermore. Thus poor chea<g ref="char:EOLhyphen"/>ted Man loſes one Paradiſe for the falſe expecta<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:96924:9"/>
+of another, and forfeits all his Happineſs, by taking the Devil's word for his Security. Thus we alſo, to humour our Luſts, and indulge our Paſſions, ſtill catch at the forbidden Fruit, and in the fond Purſuit of ſome childiſh Hopes, we lay aſide all our reaſonable Fears.</p>
+            <p>Though we know that Good and evil have their diſtinct Regions, their proper Roads, and are parted but by a ſingle Line; yet we love to allow our ſelves a little latitude, and think we may do it without loſing of our way. Though we ſee the Bounds of Vertue ſet out before us, and hear God himſelf ſaying to us, <hi>Thus far ſhalt thou go and no farther;</hi> yet we take a Plea<g ref="char:EOLhyphen"/>ſure in making our excurſions, and hope that a little treſpaſs will break no meaſures, and ſo, by degrees, we are drawn on to treſpaſs more and more, till we utterly loſe our ſelves, and both God's meaſures and our own are bro<g ref="char:EOLhyphen"/>ken.</p>
+            <p>So dangerous a thing is it to border upon Vice, and play upon the Confines of Deſtruction; for when our Foot is once taken in the ſnare, 'tis no hard matter for the Devil to draw in our whole Body after; and all this comes by preſuming too far upon God's Goodneſs, and when he bids us obey his Commands and live, we hope to live nevertheleſs, though we let his Commands alone.
+<pb n="12" facs="tcp:96924:10"/>
+He ſets before us death and evil as things inſepara<g ref="char:EOLhyphen"/>bly join'd together, but we preſumptuouſly embrace the evil, and yet think to eſcape the death.</p>
+            <p>And yet do we not know the neceſſary con<g ref="char:EOLhyphen"/>nexion that there is between the Puniſhment and the Offence? Does not our own Reaſon, as well as the Word of God, aſſure us, That Death is the natural Conſequence of Sin? Is not our own experience a demonſtration, how miſerably Vice corrupts our Nature, and how certainly it brings us to an untimely end? And without the Spirit of Prophecy, any one might eaſily foretell, <hi>That a wicked man ſhall not live out half his days.</hi>
+            </p>
+            <p>If the juſt revenge, of both God and men, ſhould ſpare him, yet how effectually does the Sinner deſtroy himſelf? by Covetouſneſs we ſtarve, and by Luxury we over-charge our Nature; Anger inflames our Blood, and Envy conſumes our Fleſh, and every inordinate Deſire is a ſecret exhauſting of our Strength. No Luſt but feeds upon our Vitals, no Paſſion but preys upon our Spirits; and Sin no ſooner enters into our Heart, but it opens the door for Death. Then the Worm inſenſibly grows upon us, the Grave gets us under its dominion, and from the very day that Vice took poſſeſſion of our Soul, we muſt date the diſſolution of our Body.</p>
+            <p>
+               <pb n="13" facs="tcp:96924:10"/>Nay, this is not the worſt of our condition neither; for Sin corrupts the Soul of Man alſo, and depraves all our brighter Faculties; it de<g ref="char:EOLhyphen"/>bauches our Will, and darkens our Underſtand<g ref="char:EOLhyphen"/>ing, and extinguiſhes that Reaſon which is our great Property and Prerogative. God breathed into our noſtrils the breath of Life, a beam of Divine Light, a ſpark of Heavenly Fire, to enno<g ref="char:EOLhyphen"/>ble our Nature, and make us a living Soul; the Image of God, and Heirs of his Eternity. But Luſt puts out all this light within us; enſlaves our Mind, and makes us degenerate into meer earth again; it weighs down our Nature, checks all our aſpiring Thoughts, and allows us to think of nothing but our Fleſh.</p>
+            <p>Where Vice prevails, and takes poſſeſſion of our Senſes, it ſhuts up all the avenues of our Soul, and lets nothing that is generous or commend<g ref="char:EOLhyphen"/>able enter in. The Beauty of Holineſs cannot be ſeen; the Charms of Wiſdom cannot be heard: nothing can be admitted but what will ſooth our Luſts, and flatter us in our iniquity.</p>
+            <p>And then 'tis no wonder if we grow profli<g ref="char:EOLhyphen"/>gate in Vice, and abandon'd to all man<g ref="char:EOLhyphen"/>ner of Uncleanneſs: and can we ſuppoſe, that ſuch a Soul as this is fit to appear before the preſence of its Maker? Is there any place in Hea<g ref="char:EOLhyphen"/>ven
+<pb n="14" facs="tcp:96924:11"/>
+for ſuch impure Thoughts as theſe? Unleſs we come there with a better mind, and in a cleaner dreſs, <hi>Go, ye curſed,</hi> will certainly be our doom; Go to the torments which you have prepa<g ref="char:EOLhyphen"/>red for your ſelves; let your Envy gnaw you ſtill like a worm that never dies, and your Anger ſtill burn within you, like the fire that never goes out, and let your greedy deſires be always cra<g ref="char:EOLhyphen"/>ving, but never ſatisfied, like the bottomleſs pit, that is ever filling, but never full.</p>
+            <p>Oh the bitterneſs and anguiſh of this ſecond Death! When the Soul of Man muſt be always dying but never dead, when eternal Torments will brood afreſh upon his Nature, and inſuffer<g ref="char:EOLhyphen"/>able pains will propagate themſelves within him: when his own guilty Conſcience ſhall always keep him waking, his own deſperate Reſolutions ſhall ſtrike him like ſpears and arrows to the heart, and the remembrance of all his multitude of Sins ſhall ſtare him like ſo many ghaſtly Apparitions in the face.</p>
+            <p>Theſe are the neceſſary conſequences of an un<g ref="char:EOLhyphen"/>godly, unrepented Life; theſe are the genuine fruits of Sin, which naturally grow upon a viti<g ref="char:EOLhyphen"/>ated Soul; ſo very naturally, that our own Rea<g ref="char:EOLhyphen"/>ſon tells us it muſt be ſo, that the Soul which is corrupted, even that ſhall die, and our vile Ima<g ref="char:EOLhyphen"/>ginations ſhall haunt us to the other World, where
+<pb n="15" facs="tcp:96924:11"/>
+all our immoderate delights ſhall be ſower'd into ſo many intolerable torments.</p>
+            <p>Something like this every wicked man finds within himſelf, even before his death; as often as he allows himſelf to think, ſo often his own Con<g ref="char:EOLhyphen"/>ſcience acts the part of Hell, and in the diſmal remorſes of his Soul, he ſees a reſemblance of his future Judgment.</p>
+            <p>And now having <hi>ſet before you life and good, and death and evil,</hi> as a matter of information, I come, in the</p>
+            <p>
+               <hi>Second</hi> place, to ſet them before you as an ob<g ref="char:EOLhyphen"/>ject of your choice. 'Tis <hi>Moſes</hi> his own Uſe and Application of my Text, in the following verſes, <hi>I call heaven and earth to record this day againſt you, that I have ſet before you life and death, there<g ref="char:EOLhyphen"/>fore chuſe life, that both thou and thy ſeed may live.</hi>
+            </p>
+            <p>I ſhall not here diſpute with <hi>Moſes,</hi> whether it be in our power to chuſe or not; but, taking for granted that it is, I ſhall only inferr, That when things of ſo very different natures are ſet before us, one would think it an eaſie matter to be determin'd. If our notions of Good and Evil are too weak to work upon us, and hold our minds for ſome time in ſuſpence; yet ſurely Life and Death admit of no diſpute. One is the ſole
+<pb n="16" facs="tcp:96924:12"/>
+delight, and the other the utter abhorrence of our Nature, and a powerful inſtinct within us always inclines us to the better part.</p>
+            <p>And yet ſo abſurd are we in our Practice, as to follow thoſe courſes, which in our judgment we condemn, and our lives are the very contra<g ref="char:EOLhyphen"/>diction of our deſires. We engage our ſelves in deſperate ways before we conſider where they are like to end, and every appearance of pleaſure drills us further on; and when we do ſee at length what our end is like to prove, we find it too tedious, and perhaps too late to return.</p>
+            <p>Could we plead ignorance in our excuſe, we might have ſome hopes of mercy. But when all theſe things are plainly <hi>ſet before us,</hi> when we ſee the penalty, and notwithſtanding this, will venture upon the offence, <hi>what remains then but a fearful looking for of judgment?</hi>
+            </p>
+            <p>Could we pretend impotence or incapacity in the caſe, it might be a proper and allowable Plea, but when theſe things are not only plainly re<g ref="char:EOLhyphen"/>preſented to our judgment, but are fairly offer'd to our choice, and yet we will chuſe amiſs, What can we ſay to ſtop the hand of Juſtice? or when Juſtice lays hold upon us, what can we ſay to excuſe our folly? Why did we run ſo blindly on and never look before us? Why,
+<pb n="17" facs="tcp:96924:12"/>
+we ſuppos'd perhaps that ſome lucky miſchance might ſtop us in our full career, and the breaking of a Leg might ſave our Neck. A wild courſe, and as extravagant a ſuppoſition.</p>
+            <p>We hop'd the time would come when we ſhould be diſabled from following our Vices any longer, and then we ſhould have leiſure to ſtand ſtill, and repent, and be very vertuous again. A ſtrange kind of hope, that can never take place till we come to the very ſeaſon of deſpair.</p>
+            <p>We expect perhaps, that ſome violent motion of the Spirit ſhould carry us up to Heaven like St. <hi>Paul,</hi> and if we are but paſſive in the caſe, if we are <hi>not diſobedient to the heavenly motion,</hi> we preſume there is nothing more for us to do. And it is a preſumption indeed, too groundleſs to be believ'd, and too ſenſeleſs to be anſwer'd.</p>
+            <p>We may flatter our ſelves, if we pleaſe, with ſuch airy hopes, and depend upon a Salvation of our own contriving; but if we would go upon certain grounds, 'tis ſufficient for us, That God himſelf, whoſe gift it is, has told us upon what terms we muſt live and proſper, <hi>See, I have ſet before you life and good;</hi> and if after this we will venture upon <hi>Evil,</hi> we our ſelves are anſwerable for the Event, and 'tis but juſt that God ſhould take the forfeiture. <hi>Death and Evil,</hi> we know,
+<pb n="18" facs="tcp:96924:13"/>
+muſt go together, unleſs we can ſeparate them by our Repentance, which it ſelf is <hi>a death unto ſin,</hi> and a greater evil than we know how to bear.</p>
+            <p>'Tis ſufficient that we ſee our way before us, that we ly no longer under any dark uncertain<g ref="char:EOLhyphen"/>ties, any diſmal ſuſpenſe, but our work is laid open to our hands, and our reward is ready for us. Our work itſelf is very good, and our reward is exceeding glorious; but if we reſiſt theſe gra<g ref="char:EOLhyphen"/>cious offers, and ſtill perſiſt in a ſenſeleſs provoke<g ref="char:EOLhyphen"/>ing courſe of Life, we deſerve the ſevereſt puniſh<g ref="char:EOLhyphen"/>ment, not only for our ſin, but for our obſtinate folly too.</p>
+            <p>Theſe are the things which the Law of God daily ſets before us, and if the charms of goodneſs can<g ref="char:EOLhyphen"/>not draw us, yet one would think the terrours of Evil ſhould drive us into Vertue. What would we not do to purchaſe Eternal Life? What would we not ſuffer to eſcape Eternal Death? What ſhould we do but renounce our Sins, what ſhould we ſuffer but this reaſonable Divorce, and then the thing is done? and what does God re<g ref="char:EOLhyphen"/>quire of us, but thoſe very things which our own reaſon requires of us too; things that are moſt ſuit<g ref="char:EOLhyphen"/>able to our nature, and moſt likely to promote our happineſs in this World, though we had no expectation of a World to come? when it is ſo
+<pb n="19" facs="tcp:96924:13"/>
+eaſy a thing to proſper, who would take ſuch pains to be undone? when it is in our own choice to live, <hi>Why will ye dy, O houſe of Iſrael?</hi>
+            </p>
+            <p>The reaſon is plain, we are deeply engaged, Body and Soul, in another intereſt; our Luſts, by a long familiarity have ſo endeared themſelves un<g ref="char:EOLhyphen"/>to us, that we know not how to part. We are ſo ty'd and bound with the Chain of our Sins, that when God calls us to Repentance, we are not able to move a ſtep. Not able? That is indeed we are not willing to advance, we have ſuch a load of iniquity upon us, that we think it more eaſy to ly down and dy, than to ſhake off our deadly weight, and live.</p>
+            <p>But if we ſeriouſly conſider'd what it was to dy, we ſhould quickly be of another mind. When Death with his cold frozen hands lays hold upon us, and is dragging us out of a ſoft ſinful Bed, in<g ref="char:EOLhyphen"/>to an uncomfortable Dungeon, a noiſome Grave, then all our heats will be abated, and we ſhall re<g ref="char:EOLhyphen"/>pent indeed, and wiſh that we had repented ſooner, before 'twas too late to be reform'd.</p>
+            <p>Let us conſider this in time; now, that it is fairly <hi>ſet before us,</hi> and 'tis in our power to make our choice. And if we ſee that wicked men find it ſo difficult to diſ-engage themſelves, that the pro<g ref="char:EOLhyphen"/>ſpect of Death it ſelf, with all its terrours, cannot
+<pb n="20" facs="tcp:96924:14"/>
+affright them from their Sins, let us beware of the dreadful Example, let us beware how we admit a Gueſt into our Boſom, who is like to ſtick ſo faſt upon us, and brings after him ſuch a deadly train. Let us keep him at a religious diſtance, and ſuperſtitiouſly avoid his ſight. Let us enter into no Parly or Combination with him, but maintain the integrity of our Soul, as we would do our Soul it ſelf, and ſtand in aw of Sin, as much as Death.</p>
+            <p>If we have unfortunately let him in, and the Enemy has already got ſome advantage of us, let us redeem our ſelves in time, and uſe all diligence to diſpoſſeſs him; though he has ty'd and bound us never ſo faſt, yet one vigorous reſolution may break the Chain; it is but reſolving to be free, and then, by the help of our Redeemer, we ſhall be ſo.</p>
+            <p>And have we no ſenſe of Life, and Liberty, and Happineſs? ſhall one vain fooliſh Luſt weigh down all the conſiderations of Eternity? ſurely there is ſome Witchcraft in this Sin, and we are not ſo much perſwaded by it as poſſeſs'd: but in the name of God we will caſt it out. We will ſet be<g ref="char:EOLhyphen"/>fore us <hi>Death and Evil,</hi> as God himſelf has ſet them both together, and then there is no danger that we ſhould be impos'd upon: for Sin cannot poſſi<g ref="char:EOLhyphen"/>bly be ſo much our delight, but Death is much
+<pb n="21" facs="tcp:96924:14"/>
+more our averſion. The very thoughts of it, if we can but think at all, will take off the reliſh of our vicious enjoyments, and make all our head-ſtrong Paſſions give way, and our empty airy plea<g ref="char:EOLhyphen"/>ſures will fly before it.</p>
+            <p>Now that Sin has conceiv'd in the World, 'tis our Happineſs that it has brought forth ſo de<g ref="char:EOLhyphen"/>form'd a thing as Death; that though the Mother may diſguiſe her ſelf, and delude us with falſe Co<g ref="char:EOLhyphen"/>lours, and flattering words, yet the foulneſs of her Off-ſpring cannot be conceal'd, and in the Face of Death we may read the natural deformity of Sin.</p>
+            <p>Let us conſider this, and then let us entertain it if we dare, nay let us embrace it if we can; for how temptingly ſoever Sin may look upon us, yet Death is a powerful Antidote, 'tis enough to damp our Spirits, and chill our blood, and to change not only the inclinations, but the very con<g ref="char:EOLhyphen"/>ſtitution of our Fleſh.</p>
+            <p>
+               <hi>Knowing theſe terrors of the Lord,</hi> ſurely we ſhall be <hi>perſwaded:</hi> conſidering the ſad conſequences of ſin, one would think there ſhould be little or no temptation in it; to a thinking Man, indeed, there is none at all, and 'tis a wonder that any Man can ſo far lay his thoughts aſide, as to hug a ſlaviſh gilded Chain, to fall in love with a
+<pb n="22" facs="tcp:96924:15"/>
+fulſome painted Sepulchre, and doze himſelf in poiſonous Wine, only becauſe he ſees it ſparkling in the glaſs.</p>
+            <p>All theſe are but imaginary Pleaſures at the beſt; and yet theſe are all the Pleaſures that a Sinner has; and what are all theſe, in compariſon of that real, ſubſtantial eternal Joy, which we part with for theſe trifles ſake: after ſuch an ex<g ref="char:EOLhyphen"/>change as this, we muſt never pretend to Judge<g ref="char:EOLhyphen"/>ment or Diſcretion more.</p>
+            <p>We that are ſo circumſpect and wiſe in the little inferior concerns of Life, where is our wiſ<g ref="char:EOLhyphen"/>dom in our great Affair, where is our circum<g ref="char:EOLhyphen"/>ſpection, when our whole Happineſs is at ſtake.</p>
+            <p>To get a poor livelihood upon earth, we can labour and toil, hunger and thirſt, and ſweat and ſtarve, and applaud our ſelves for doing ſo: but here we can be content to ſtand all the day idle, and have our thoughts otherwiſe employ'd, and are ſo far from labouring for life, that we will not be at the trouble ſo much as to look before us. Nay, for the moſt part we make it our bu<g ref="char:EOLhyphen"/>ſineſs to look the quite contrary way.</p>
+            <p>What indefatigable pains do we take to gratifie our fooliſh Luſts, when with half the pains we might learn to live much happier without them.</p>
+            <p>
+               <pb n="23" facs="tcp:96924:15"/>What violence do we uſe upon our ſelves, to lay our Souls and Conſciences aſleep, for fear the beautiful Proſpect of Life ſhould tempt us to be vertuous, or the diſmal Apparitions of Death ſhould affright us from our Vice, when half that force employ'd againſt our Vanities and Corruptions, would ſuffice to take Heaven it ſelf by violence, and make us for ever happy.</p>
+            <p>But when Men have once ſold themſelves to work wickedneſs, how obſtinately do they refuſe to hear their own Reaſon ſpeak! How do they diſdain to be reclaim'd, though it be by the Word of God! That word which is <hi>piercing as a two-edged ſword,</hi> they labour to put by with all their art, and defend themſelves againſt it with the whole Artillery of the Devil; with the Helmet of Pride, the Shield of Obſtinacy, and the Breaſt-plate of Unbelief, Armour that is hardned in the bottomleſs Pit, they maintain a deſperate Cauſe, and wage a ſenſeleſs War againſt the Pow<g ref="char:EOLhyphen"/>ers of Heaven.</p>
+            <p>So dangerous a thing is it to give way to Diſobe<g ref="char:EOLhyphen"/>dience, that by degrees, it betrays us into Unbe<g ref="char:EOLhyphen"/>lief; and by ſlighting the notions of Good and Evil, we come at laſt to make no difference be<g ref="char:EOLhyphen"/>tween Life and Death.</p>
+            <p>
+               <pb n="24" facs="tcp:96924:16"/>Thus the Devil, who is conſcious of his own doom, and officious to prevent the like in us, teaches us <hi>not to believe,</hi> for fear we ſhould <hi>trem<g ref="char:EOLhyphen"/>ble</hi> too: and <hi>the terrours of the Lord,</hi> are the very reaſon why ſome men will not be <hi>perſwa<g ref="char:EOLhyphen"/>ded.</hi>
+            </p>
+            <p>But let us bring more tractable diſpoſitions to the word of God, and when he <hi>ſets before us life and good, and death and evil,</hi> let us for our Infor<g ref="char:EOLhyphen"/>mation ſubmit to his Judgment, and in our Choice let us comply with his deſires. 'Tis no diſpa<g ref="char:EOLhyphen"/>ragement for the wiſeſt Man to be inſtructed, and ſurely 'tis no condeſcenſion for the greateſt Man to be ſav'd. If we are deſirous of <hi>Life,</hi> we know now upon what terms it muſt be had: if we will ſtill follow after <hi>Evil,</hi> we know what will be the conſequence: nay, the conſequence will fall the heavier upon us for this very reaſon, becauſe we know it; our condemnation will be the more juſt, our death the more unpitied, becauſe it has been ſo often and ſo plainly ſet before us.</p>
+            <p>Seeing therefore we have ſo many Sins and ſinful ignorances to be accounted for, let not our know<g ref="char:EOLhyphen"/>ledge alſo be number'd amongſt our tranſgreſſions; let not our means of grace, and opportunities of Glory come to inflame our Reckoning againſt the great Day of Account.</p>
+            <p>
+               <pb n="25" facs="tcp:96924:16"/>Many a time have we been admoniſh'd of our Sins, and now once more are we forewarn'd of our danger. <hi>See I have ſet before you this day alſo life and good, and death and evil.</hi> God grant that we may <hi>even in this our day ſee the things that belong unto our</hi> Good, <hi>before they are hidden from our eyes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96924:17"/>
+            <head>BOOKS Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>DR. <hi>Burnet</hi>'s Theory of the Earth, the two laſt Books; concerning the Conflagration of the World, and the new Heavens, and the new Earth. <hi>Fol.</hi>
+               </item>
+               <item>—Anſwer to Mr. <hi>Warren</hi>'s Exceptions againſt the firſt Part.</item>
+               <item>—Conſideration of Mr. <hi>Warren</hi>'s Defence.</item>
+               <item>—Relation of the Proceedings at the <hi>Charter-Houſe,</hi> upon occaſion of King <hi>James</hi> II. his preſenting a Papiſt to be admitted into that Hoſpital, in Virtue of his Letters Diſpenſatory. <hi>Fol.</hi>
+               </item>
+               <item>—Telluris Theoria Sacra, Libri duo poſteriores de Conflagratione Mundi &amp; de futuro rerum ſtatu. <hi>Quarto.</hi>
+               </item>
+               <item>—Archaeologiae Philoſophicae: ſive Doctrina antiqua de Rerum Originibus, Libri duo.</item>
+               <item>Biſhop <hi>Overall</hi>'s Convocation-Book, 1606. concern<g ref="char:EOLhyphen"/>ing the Government of God's Catholick Church, and the Kingdoms of the whole World. <hi>Quarto.</hi>
+               </item>
+               <item>Mr. <hi>Nicholl</hi>'s Anſwer to an Heretical Book call'd, <hi>The Naked Goſpel. Quarto.</hi>
+               </item>
+               <item>
+                  <hi>Turner</hi> de Lapſu Angelorum &amp; Hominum. <hi>Quarto.</hi>
+               </item>
+               <item>Mr. <hi>Lamb</hi>'s Dialogues about the Lord's Supper <hi>Octavo,</hi>
+               </item>
+               <item>Mr. <hi>Raymond</hi>'s Pattern of pure and undefiled Religion. <hi>Octavo.</hi>
+               </item>
+               <item>—Expoſition on the Church-Catechiſm. <hi>Octavo.</hi>
+               </item>
+               <item>Animadverſions on Mr. <hi>Johnſon</hi>'s Anſwer to <hi>Jovian,</hi> in Three Letters. <hi>Octavo.</hi>
+               </item>
+               <item>Mr. <hi>Dodwell</hi>'s Two Letters of Advice about Suſception of Holy Orders, <hi>&amp;c.</hi>
+               </item>
+               <item>Mr. <hi>Milbourn</hi>'s Myſteries in Religion Vindicated; Or, Filiation, Deity, and Satisfaction of our Saviour, aſſert<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:96924:17"/>
+againſt <hi>Socinians</hi> and others; with occaſional Reflecti<g ref="char:EOLhyphen"/>ons on ſeveral late Pamphlets. <hi>Octavo.</hi>
+               </item>
+               <item>Dr. <hi>Sharpe</hi>'s (now Archbiſhop of <hi>York</hi>) Sermon before the Queen, <hi>Apr.</hi> 11. 1690. on <hi>Gal.</hi> xv. 13.</item>
+               <item>—Faſt Sermon before the Houſe of Commons, <hi>May</hi> 21. 1690. on <hi>Deut.</hi> 5.21.</item>
+               <item>—Farewell Sermon at S. <hi>Giles, June</hi> 28. 1691. on <hi>Phil.</hi> 4.8.</item>
+               <item>—Sermon before the Houſe of Lords, <hi>Novemb.</hi> 5. 1691. on <hi>Rom.</hi> x. 2.</item>
+               <item>—Sermon before the King and Queen, on <hi>Chriſtmas-day,</hi> 1691. on <hi>Heb.</hi> xix. 26.</item>
+               <item>—Sermon on <hi>Eaſter-day,</hi> 1692. on <hi>Phil.</hi> iii. 10.</item>
+               <item>—Sermon of <hi>the things that make for peace,</hi> before the Lord Mayor, <hi>Aug.</hi> 23. 1674. on <hi>Rom.</hi> xiv. 19.</item>
+               <item>—Sermon before the Lord Mayor, <hi>Jan.</hi> 1675. on 1 <hi>Tim.</hi> iv. 8. both new Printed.</item>
+               <item>Dr. <hi>Grove</hi>'s (now Lord Biſhop of <hi>Chicheſter</hi>) Sermon before the King and Queen, <hi>June</hi> 1. 1690.</item>
+               <item>Dr <hi>Hooper</hi>'s Sermon before the Queen, <hi>Jan.</hi> 24. 1690.</item>
+               <item>Dr. <hi>Hickman</hi>'s Thankſgiving Sermon before the Houſe of Commons, <hi>Octob.</hi> 19. 1690.</item>
+               <item>—Sermon before the Queen, <hi>Octob.</hi> 26. 1690.</item>
+               <item>Mr. <hi>Lamb</hi>'s Sermon before the King and Queen, <hi>Jan.</hi> 19. 1689.</item>
+               <item>—Sermon before the Queen, <hi>Jan.</hi> 24. 1690.</item>
+               <item>Dr. <hi>Worthington,</hi> of Chriſtian Love, <hi>Octavo.</hi>
+               </item>
+               <item>Faith and Practice of a Church of <hi>England</hi>-Man. <hi>Twelves.</hi> Fourth Edition.</item>
+               <item>Mr. <hi>Jeffrey</hi>'s Religion the Perfection of Man. <hi>Octavo.</hi>
+               </item>
+               <item>Dr. <hi>Scot</hi>'s Sermon before the Queen, <hi>May</hi> 22. 1692.</item>
+               <item>Mr. <hi>Young</hi>'s Sermon of Union, <hi>May</hi> 20. 1688.</item>
+               <item>The Proteſtant and Popiſh Way of interpreting Scri<g ref="char:EOLhyphen"/>pture, in Anſwer to <hi>Pax vobis.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
